@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-- "6.4.1"
+- "7.5"
 
 
 ## Javascript Node CircleCI 2.0 configuration file
